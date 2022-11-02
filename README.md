@@ -1,6 +1,6 @@
 # ORGAN-DONOR-AND-RECIPIENT-MATCHING-SYSTEM 
 
-We used mac for the installation. Please refer to the installations as per the OS.
+We used mac for the installation. Please refer to the installations as per the OS. 
 1. Install npm and nodejs:
 • brew install node
 • node -v
