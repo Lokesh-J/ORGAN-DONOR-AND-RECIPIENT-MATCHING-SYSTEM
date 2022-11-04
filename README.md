@@ -15,6 +15,7 @@ We used mac for the installation. Please refer to the installations as per the O
 4. Link ganache account to metamask by using the private key through a 
 custom rpc at http://127.0.0.1:7545
 
+
 5. Install truffle 
 • npm install -g truffle
 
